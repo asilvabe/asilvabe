@@ -27,9 +27,9 @@ I am a software developer with a passion for creating and improving tools that s
 ### Where to find me
 <p>
   <a href="https://asilvabe.dev" target="_blank"><img alt="Asilvabe" src="https://img.shields.io/badge/Personal_website-155679?&style=for-the-badge&logo=home-assistant-community-store&logoColor=white" /></a>  
-  <a href="https://github.com/asilvabe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/asilvabe" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/asilvabe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/asilvabe" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 <!--
 **asilvabe/asilvabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
