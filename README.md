@@ -9,7 +9,6 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />  
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />  
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />  
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />  
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />  
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=flat-square&logo=digitalocean&logoColor=white" />  
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />  
@@ -21,6 +20,7 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-002561?style=flat-square&logo=css3&logoColor=white" />  
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />  
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />  
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />  
 </p>
 <p>My favorite tools 🧰</p>
 <p>
