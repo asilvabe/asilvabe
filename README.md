@@ -3,7 +3,7 @@
 I am a software developer with a passion for creating and improving tools that solve problems and make people's lives easier, more beautiful, and more comfortable. My main focus is web application development with Laravel and VueJS.
 
 ### Things I code with
-<p>Backend 💪</p>
+<p>🧙‍♂️ Backend</p>
 <p>
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f55247?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />
@@ -13,7 +13,7 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=flat-square&logo=digitalocean&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
-<p>A bit of frontend 😁</p>
+<p>💅 A bit of frontend</p>
 <p>
   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-42b883?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
 </p>
-<p>My favorite tools 🧰</p>
+<p>🧰 My favorite tools</p>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-1F7ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
