@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alejandro
 
-I am a software developer with a passion for creating and improving tools that solve problems and make people's lives easier, more beautiful, and more comfortable. My main focus is web application development with Laravel and VueJS.
+I am a software developer with a passion for creating and improving tools that solve problems and make people's lives easier, more beautiful, and more comfortable. My main focus is web application development with [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/) and [AlpineJS](https://alpinejs.dev/).
 
 ### Things I code with
 <p>🧙‍♂️ Backend</p>
@@ -19,7 +19,8 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-002561?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" /
 </p>
 <p>🧰 My favorite tools</p>
 <p>
