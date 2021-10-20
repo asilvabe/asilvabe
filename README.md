@@ -43,5 +43,5 @@ I am a software developer with a passion for creating and improving tools that s
   </a>
 </p>
 
-### My stats:
+### My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asilvabe&count_private=true&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
