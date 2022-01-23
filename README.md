@@ -9,9 +9,6 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Digital Ocean" src="https://img.shields.io/badge/-Digital_Ocean-008bcf?style=flat-square&logo=digitalocean&logoColor=white" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 <p>💅 A bit of frontend</p>
 <p>
@@ -24,6 +21,7 @@ I am a software developer with a passion for creating and improving tools that s
 </p>
 <p>🧰 My favorite tools</p>
 <p>
+  <img alt="PHP Storm" src="https://img.shields.io/badge/-PHP_Storm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-1F7ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Chrome browser" src="https://img.shields.io/badge/-Chrome_Browser-4285f4?style=flat-square&logo=google-chrome&logoColor=white" />
