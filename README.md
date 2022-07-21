@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alejandro
 
-I am a software developer with a passion for creating and improving tools that solve problems and make people's lives easier, more beautiful, and more comfortable. My main focus is web application development with [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/) and [AlpineJS](https://alpinejs.dev/).
+I am a software developer passionate about creating and improving tools that solve problems and make people's lives easier, more beautiful, and more comfortable. My main focus is web application development with [Laravel](https://laravel.com/), [Livewire](https://laravel-livewire.com/) and [AlpineJS](https://alpinejs.dev/).
 
 ### Things I code with
 <p>🧙‍♂️ Backend</p>
