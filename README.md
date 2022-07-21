@@ -10,7 +10,7 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
-<p>💅 A bit of frontend</p>
+<p>💅 A bit of UI/UX</p>
 <p>
   <img alt="AlpineJS" src="https://img.shields.io/badge/-AlpineJS-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
@@ -28,7 +28,7 @@ I am a software developer with a passion for creating and improving tools that s
   <img alt="Firefox browser" src="https://img.shields.io/badge/-Firefox_Browser-e66000?style=flat-square&logo=firefox&logoColor=white" />
 </p>
 
-### Where to find me
+### Where to find me?
 <p>
   <a href="https://asilvabe.dev" target="_blank">
     <img alt="Asilvabe" src="https://img.shields.io/badge/Personal_website-155679?&style=for-the-badge&logo=home-assistant-community-store&logoColor=white" />
