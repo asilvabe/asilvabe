@@ -12,6 +12,7 @@ I am a software developer passionate about creating and improving tools that sol
 </p>
 <p>💅 A bit of UI/UX</p>
 <p>
+  <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-ffffff?style=flat-square&logo=livewire&logoColor=F670AA" />
   <img alt="AlpineJS" src="https://img.shields.io/badge/-AlpineJS-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
