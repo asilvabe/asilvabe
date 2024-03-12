@@ -5,14 +5,23 @@ I am a software developer passionate about creating and improving tools that sol
 ### Things I code with
 <p>🧙‍♂️ Backend</p>
 <p>
-  <a href="https://www.laravel.com/" target="_blank">
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F52C21?style=flat-square&logo=laravel&logoColor=white" />
-  </a>
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-4f5b93?style=flat-square&logo=php&logoColor=white" />
   </a>
+  <a href="https://www.laravel.com/" target="_blank">
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F52C21?style=flat-square&logo=laravel&logoColor=white" />
+  </a>
+  <a href="https://symfony.com/" target="_blank">
+    <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://redis.io/" target="_blank">
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-A41E11?style=flat-square&logo=redis&logoColor=white" />
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FFFFFF?style=flat-square&logo=rabbitmq&logoColor=orange" />
   </a>
   <a href="https://graphql.org/" target="_blank">
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
