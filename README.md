@@ -62,10 +62,18 @@ I am a software developer passionate about creating and improving tools that sol
 </p>
 <p>🧰 My favorite tools</p>
 <p>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-  <img alt="PHP Storm" src="https://img.shields.io/badge/-PHP_Storm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
-  <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+    <img alt="PHP Storm" src="https://img.shields.io/badge/-PHP_Storm-000000?style=flat-square&logo=phpstorm&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </a>
 </p>
 
 ### Where to find me?
