@@ -14,6 +14,9 @@ I am a software developer passionate about creating and improving tools that sol
   <a href="https://www.laravel.com/" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-F52C21?style=flat-square&logo=laravel&logoColor=white" />
   </a>
+  <a href="https://go.dev/" target="_blank">
+    <img alt="Go" src="https://img.shields.io/badge/-GO-00add8?style=flat-square&logo=go&logoColor=white" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
   </a>
@@ -90,5 +93,11 @@ I am a software developer passionate about creating and improving tools that sol
 </p>
 
 ### My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&hide=javascript,html,blade,vue,css)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asilvabe&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&count_private=true&hide=html,blade,vue,css,shell&show_icons=true&exclude_repo=asilvabe&langs_count=10"
+  />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asilvabe&exclude_repo=asilvabe"/>
+</a>
