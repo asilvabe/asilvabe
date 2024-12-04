@@ -90,5 +90,5 @@ I am a software developer passionate about creating and improving tools that sol
 </p>
 
 ### My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&hide=javascript,html,blade,vue,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asilvabe&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
