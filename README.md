@@ -36,7 +36,7 @@ I am a software developer passionate about creating and improving tools that sol
     <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   </a>
 </p>
-<p>💅 A bit of UI/UX</p>
+<p>💅 A bit of Frontend</p>
 <p>
   <a href="https://laravel-livewire.com/" target="_blank">
     <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-ffffff?style=flat-square&logo=livewire&logoColor=F670AA" />
