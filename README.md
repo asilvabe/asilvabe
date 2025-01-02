@@ -99,6 +99,6 @@ I am a software developer passionate about creating and improving tools that sol
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&count_private=true&hide=html,blade,vue,css,shell,makefile&show_icons=true&exclude_repo=asilvabe&langs_count=10&hide_progress=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&count_private=true&hide=html,blade,vue,css,shell,makefile&show_icons=true&exclude_repo=asilvabe&langs_count=10&hide_progress=true&size_weight=0.5&count_weight=0.5"
   />
 </a>
