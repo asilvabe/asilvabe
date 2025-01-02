@@ -93,11 +93,12 @@ I am a software developer passionate about creating and improving tools that sol
 </p>
 
 ### My stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&count_private=true&hide=html,blade,vue,css,shell&show_icons=true&exclude_repo=asilvabe&langs_count=10"
-  />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asilvabe&exclude_repo=asilvabe"/>
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilvabe&theme=blue-green&count_private=true&hide=html,blade,vue,css,shell,makefile&show_icons=true&exclude_repo=asilvabe&langs_count=10&hide_progress=true"
+  />
 </a>
